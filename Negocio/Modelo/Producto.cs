@@ -13,10 +13,14 @@ namespace Negocio.Modelo
     {
         public string elimina()
         {
-            return "hola";
+            return "dfdfdf";
         }
-        
-        
+        public string eliminarrrrr()
+        {
+            return "dfdfdf";
+        }
+
+
 
         public void AgregarProducto(DataProducto producto)
         {            

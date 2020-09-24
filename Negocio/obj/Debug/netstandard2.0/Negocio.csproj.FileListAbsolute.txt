@@ -39,7 +39,6 @@ C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\bin\Debug\nets
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\bin\Debug\netstandard2.0\Persistencia.pdb
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\bin\Debug\netstandard2.0\MySql.Data.xml
-C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\obj\Debug\netstandard2.0\Negocio.csprojAssemblyReference.cache
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfoInputs.cache
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfo.cs
 C:\Users\leandro\Documents\Programacion3\proyecto\clase03\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CoreCompileInputs.cache

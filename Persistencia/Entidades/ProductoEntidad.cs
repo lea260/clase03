@@ -11,6 +11,8 @@ namespace Persistencia.Entidades
         private string codigo;
         private string descripcion;
         private float precio;
+        private float hoa;
+
         private DateTime fecha;
         //private readonly static ProductoEntidad _instance = new ProductoEntidad();
         //ProductoEntidad p = new ProductoEntidad();
