@@ -8,8 +8,13 @@ using Persistencia.Repositorios;
 
 namespace Negocio.Modelo
 {
+
     public class Producto
     {
+        public string elimina()
+        {
+            return "dfdfdf";
+        }
         public void AgregarProducto(DataProducto producto)
         {            
             //transformo el DataProducto en DataEntidad
