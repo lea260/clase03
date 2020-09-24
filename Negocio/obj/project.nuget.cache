@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBYyz2NIwatXZE+Fh9uen9e2yNrZo5qqVUr4pEA8g8AYnk15n6sTax2SHlYFQFy8USyRKsfw7FnWl1rgiHRlRA==",
+  "dgSpecHash": "zo4aThVterKdgxq+NwTlJA2xlWi74KnK6eAnbAAlgF8VjZieYSeXVj1iMTAWf9Ew1fNeLludNUuUy+YIQ/+A/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leandro\\Documents\\Programacion3\\01clase\\Clase01\\Negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Users\\leandro\\Documents\\Programacion3\\proyecto\\clase03\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leandro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\leandro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

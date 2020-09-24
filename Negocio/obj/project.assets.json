@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leandro\\Documents\\Programacion3\\01clase\\Clase01\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\leandro\\Documents\\Programacion3\\proyecto\\clase03\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\leandro\\Documents\\Programacion3\\01clase\\Clase01\\Negocio\\Negocio.csproj",
+      "projectPath": "C:\\Users\\leandro\\Documents\\Programacion3\\proyecto\\clase03\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leandro\\Documents\\Programacion3\\01clase\\Clase01\\Negocio\\obj\\",
+      "outputPath": "C:\\Users\\leandro\\Documents\\Programacion3\\proyecto\\clase03\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,6 +15,11 @@ namespace Negocio.Modelo
         {
             return "dfdfdf";
         }
+        public string eliminarrrrr()
+        {
+            return "dfdfdf";
+        }
+
         public void AgregarProducto(DataProducto producto)
         {            
             //transformo el DataProducto en DataEntidad
